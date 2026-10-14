@@ -4,3 +4,4 @@ This repository contains notes, examples, and practice projects for learning Nod
 
 
 new -purchase
+new -purchase stack 3
